@@ -19,6 +19,7 @@
         <module>metrics-benchmarks</module>
         <module>metrics-core</module>
         <module>metrics-collectd</module>
+        <module>metrics-compatibility</module>
         <module>metrics-healthchecks</module>
         <module>metrics-ehcache</module>
         <module>metrics-graphite</module>
